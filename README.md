@@ -1,73 +1,119 @@
-
-<h1 align="center">Jithin Raveendran</h1>
+<h1 align="center">Hey, I'm Jithin 👋</h1>
 
 <p align="center">
   Full Stack Developer • .NET • Angular • Cloud Engineering
 </p>
 
 <p align="center">
-  <a href="https://github.com/jithinjjsr">GitHub</a> •
-  <a href="https://www.linkedin.com/in/jithinjjsr/">LinkedIn</a>
+  <a href="https://github.com/jithinjjsr">
+    <img src="https://img.shields.io/github/followers/jithinjjsr?label=Follow&style=for-the-badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/jithinjjsr/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=jithinjjsr&style=for-the-badge&color=blueviolet" />
 </p>
 
 ---
 
-## About
+## 🚀 About Me
 
-Full-stack developer with 6+ years of experience building scalable applications, cloud-native systems, and enterprise platforms.
+I'm a full-stack developer with 6+ years of experience building scalable web applications and cloud-native systems.
 
-Focused on:
-- .NET / ASP.NET Core
+I work mainly with:
+
 - Angular & TypeScript
+- .NET / ASP.NET Core
 - Azure & AWS
-- Microservices
-- Kafka
-- Docker
+- Microservices & Kafka
+- Docker & Cloud Deployments
 
-Currently based in the UK.
+Currently based in the UK 🇬🇧  
+Originally from Kerala, India 🇮🇳
 
----
-
-## Experience
-
-- Delivered end-to-end enterprise applications from architecture to deployment
-- Worked on cloud automation and distributed systems
-- Led production deployments and critical issue resolution
-- Built scalable APIs and microservice-based platforms
+Outside tech, you'll usually find me:
+- hiking mountains
+- planning road trips
+- taking landscape photos
+- overengineering side projects for absolutely no reason
 
 ---
 
-## Tech Stack
+## 🛠 Tech Stack
 
-```txt
-Frontend    Angular, TypeScript, JavaScript, HTML, CSS
-Backend     .NET, ASP.NET Core, C#
-Cloud       Azure, AWS
-DevOps      Docker, GitHub Actions
-Data        SQL Server, PostgreSQL, MongoDB
-Tools       Git, VS Code, Visual Studio
-````
-
----
-
-## GitHub
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=jithinjjsr&show_icons=true&hide_border=true&title_color=000000&icon_color=000000&text_color=444&bg_color=ffffff" />
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css" />
 </p>
 
-<p align="center">
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=jithinjjsr&hide_border=true&ring=000000&fire=000000&currStreakLabel=000000" />
+### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,nodejs,python" />
+</p>
+
+### Cloud & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=azure,aws,docker,kafka,githubactions" />
+</p>
+
+### Databases & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,vscode,visualstudio,git" />
 </p>
 
 ---
 
-## Interests
+## 📌 What I Work On
 
-System Design • Cloud Architecture • Data Engineering • Photography • Hiking
+- Enterprise web applications
+- Cloud migration & automation
+- Distributed systems
+- API integrations
+- Performance optimization
+- CI/CD pipelines
+- Production bug hunting at 2 AM like a Netflix crime documentary
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <!-- <img height="170" src="https://github-readme-stats.vercel.app/api?username=jithinjjsr&show_icons=true&theme=tokyonight&hide_border=true" /> -->
+  
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=jithinjjsr&theme=tokyonight&hide_border=true" />
+</p> 
+
+<p align="center">
+  <!-- <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jithinjjsr&layout=compact&theme=tokyonight&hide_border=true" 
+  /> -->
+</p>
+
+---
+
+## 🌍 Interests
+
+- Cloud Architecture
+- System Design
+- Data Engineering
+- Photography
+- Scenic Drives
+- Hiking Trails
+- Building side projects that start as "small ideas"
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/jithinjjsr/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  
+</p>
 
 ---
 
 <p align="center">
-  <sub>Built with focus, caffeine, and questionable deployment timings.</sub>
+  <i>"Clean code until production happens."</i>
 </p>
