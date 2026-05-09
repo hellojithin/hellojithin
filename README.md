@@ -110,9 +110,6 @@ Outside tech, you'll usually find me:
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   
-  <a href="mailto:your-email@example.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
 </p>
 
 ---
