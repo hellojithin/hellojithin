@@ -77,11 +77,11 @@ Outside tech, you'll usually find me:
 
 ## 📈 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=jithinjjsr&show_icons=true&theme=tokyonight&hide_border=true" />
   
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=jithinjjsr&theme=tokyonight&hide_border=true" />
-</p>
+</p> -->
 
 <p align="center">
   <img 
